@@ -1,0 +1,6 @@
+[submodule "xbmc"]
+	path = xbmc
+	url = git@github.com:Openivo/xbmc.git
+[submodule "mythtv"]
+	path = mythtv
+	url = git@github.com:Openivo/mythtv.git
